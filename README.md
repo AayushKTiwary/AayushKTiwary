@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aayush 👋
 
-<!--
-**AayushKTiwary/AayushKTiwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at ITER, SOA
 
-Here are some ideas to get you started:
+## About Me
+- Learning Java and DSA
+- Exploring Open Source
+- Building projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Java
+- Git & GitHub
+- VS Code
+
+## Connect
+- GitHub: https://github.com/AayushKTiwary
+- LinkedIn: https://www.linkedin.com/in/aayushktiwary/
